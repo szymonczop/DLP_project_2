@@ -35,12 +35,13 @@ with information about accuracy and loss for **both** training test and validati
 We run models for all 4 embeddings and make a small summary about the final outcome of scores. 
 
 In the second part of Colab, we are using different kinds of BERT neural networks (also imported from TFH).
-Again we have plenty of models to choose and we can play with them with the usage of a friendly colab interface
+Again, we have plenty of models to choose and we can play with them using a friendly colab interface.
 
 **Some suggestions for choosing a model**       
 - Start with a *Small BERT* since they are faster to fine-tune.      
 - *ALBERT* might be a good choice if you want a small model but with higher accuracy.       
 - Classic *BERT* sizes or their recent refinements like *Electra, Talking Heads, BERT Expert* will have the highest accuracy.
+
 
 ## Jupyter notebook with the classical approach
 In this jupyter file user can find:
@@ -48,9 +49,9 @@ In this jupyter file user can find:
 * Wordclouds concerning negative or positive sentiment
 * How many times given word was used in a negative or positive context 
 * Usage of Zipf's law
-* classical models with different tokenization (Logistic Regression, Naive Bayes)
-* plots for all kinds of used models concerning trainable parameters.
-* Comparing TFiDF and CountVectorizer for Logistic regression
+* Classical models with different tokenization (Logistic Regression, Naive Bayes)
+* Plots for all kinds of used models concerning trainable parameters.
+* Comparing TFIDF and CountVectorizer for Logistic regression
 * Listing top 100 positive and negative words according to models
 * Final summary about all tested models in this file.
 
