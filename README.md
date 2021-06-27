@@ -2,7 +2,7 @@
 # DLP_2021
 Deep Learning project lead by Rafał Nowak from Wroclaw University at Computer Science faculty.
 
-##Project 2 
+## Project 2 
 
 Team: 
 
