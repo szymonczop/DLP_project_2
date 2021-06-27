@@ -19,7 +19,7 @@ Labels are as follow:
 * 1 - a positive review
 
 In order to make our work easier, we will use pre-trained text embedding and weights for neural network
-form [Tensorflo Hub](https://www.tensorflow.org/hub)
+form [Tensorflow Hub](https://www.tensorflow.org/hub)
 
 The whole work is split into two files:
 
