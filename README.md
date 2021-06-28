@@ -24,7 +24,7 @@ form [Tensorflow Hub](https://www.tensorflow.org/hub)
 The whole work is split into two files:
 
 * Colab file (Text classification with TensorFlow Hub: Movie reviews v2.ipynb)
-* Jupyter file with the classical approach to the problem.
+* Second file with the classical approach to the problem.
 
 ## COLAB
 
